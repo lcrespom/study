@@ -21,6 +21,7 @@ $(function() {
 		["dream", "dreamt", "dreamt"],
 		["drink", "drank", "drunk"],
 		["drive", "drove", "driven"]*/
+		/*
 		["leave", "left", "left"],
 		["let", "let", "let"],
 		["lose", "lost", "lost"],
@@ -37,7 +38,27 @@ $(function() {
 		["see", "saw", "seen"],
 		["send", "sent", "sent"],
 		["set", "set", "set"],
-		["shoot", "shot", "shot"]
+		["shoot", "shot", "shot"]*/
+		["sing","sang","sung"],
+		["sit","sat","sat"],
+		["sleep","slept","slept"],
+		["smell","smelt","smelt"],
+		["speak","spoke","spoken"],
+		["spend","spent","spent"],
+		["stand","stood","stood"],
+		["steal","stole","stolen"],
+		["swear","swore","sworn"],
+		["swim","swam","swum"],
+		["take","took","taken"],
+		["teach","taught","taught"],
+		["tell","told","told"],
+		["think","thought","thought"],
+		["throw","threw","thrown"],
+		["understand","understood","understood"],
+		["wake","woke","woken"],
+		["wear","wore","worn"],
+		["win","won","won"],
+		["write", "wrote", "written"]
 	];
 	var rights = 0;
 	var wrongs = 0;
